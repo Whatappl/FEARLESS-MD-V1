@@ -109,24 +109,25 @@ global.BotName = "🐦Fearless-md-v1";
 
 ---
 # `Guide`📕
-Guide For Tremux,Vps,Google Cloud
-## `Copy the command step by step`
+# Install Several Packages And Run Bots
 
-apt updat
-apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
-pkg install yarn
-pkg install imagemagick -y
-git clone {Your Repo link}
-cd FEARLESS-MD-V1
-yarn installv
-npm start```
+```csharp
+> apt update
+> apt upgrade
+> pkg update && pkg upgrade
+> pkg install bash
+> pkg install libwebp
+> pkg install git -y
+> pkg install nodejs -y 
+> pkg install ffmpeg -y 
+> pkg install wget
+> pkg install yarn
+> pkg install imagemagick -y
+> git clone {Your Repo link}
+> cd FEARLESS-MD-V1
+> yarn installv
+> npm start
+````
 ---
 
 ## ```Support Me`
