@@ -141,7 +141,7 @@ global.BotName = "🐦Fearless-md-v1";
 1. **Buy Me a Coffee**: Your support will help me stay motivated and continue working on exciting projects like this one.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com">
-  <img src="https://telegra.ph/file/68788408ecf55f6358eca.jpg" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
+  <img src="https://telegra.ph/file/68788408ecf55f6358eca.jpg" alt="Buy Me Coffee" height="80" width="150" style="margin-left: 60px;">
 </a>
 
 <h2 align="center"> Please don't forget to Star the repo and follow me 🌟
