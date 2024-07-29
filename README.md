@@ -42,7 +42,7 @@ If you create a clone of my bot then Don't forget to give ***Credit***
 global.Owner = ["50941392672"];
 global.OwnerNumber = ["50941392672"];
 global.ownertag = ["50941392672"];
-global.OwnerName = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
+global.OwnerName = "𓄂☠️🇫ᥱᥲrᥣᥱss🤴🏻𝐊i͜͡n̸𝙂🇵🇰༗";
 global.BotName = "🐦Fearless-md-v1";
 ```
 
@@ -109,17 +109,32 @@ global.BotName = "🐦Fearless-md-v1";
 
 ---
 # `Guide`📕
+Guide For Tremux,Vps,Google Cloud
+## `Copy the command step by step`
 
-- [Full Deploy Explanation & Termux Deploy & Vps Deploy](https://github.com/anonphoenix007/MAKINO-MD-V2/blob/main/guide.md)
+apt updat
+apt upgrade
+pkg update && pkg upgrade
+pkg install bash
+pkg install libwebp
+pkg install git -y
+pkg install nodejs -y 
+pkg install ffmpeg -y 
+pkg install wget
+pkg install yarn
+pkg install imagemagick -y
+git clone {Your Repo link}
+cd FEARLESS-MD-V1
+yarn installv
+npm start```
 ---
 
-## ```Support Me```
-<a href='https://www.instagram.com/anonphoenix007' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=instagram' width="96.35" height="28"/></a></p>
-<a href='https://wa.me/2347080968564' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
-<a href='https://chat.whatsapp.com/Isx0zE3Gef78sKBGnEpiaN' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
-<a href='https://whatsapp.com/channel/0029VaY0Zq32P59piTo5rg0K' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-Channel-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
-<a href='https://whatsapp.com/channel/0029VaCblq44IBhMEiIu3m10' target="_blank"><img alt='WhatsApp 2' src='https://img.shields.io/badge/Channel-2-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
-<a href='https://www.youtube.com' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/SUBSCRIBE-h?color=black&style=for-the-badge&logo=youtube' width="96.35" height="28"/></a></p>
+## ```Support Me`
+<a href='https://wa.me/50941392672' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
+<a href='https://chat.whatsapp.com/Isx0zE3Gef78sKBGnEpiaN' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-FIRST-CHANNEL-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
+<a href='https://whatsapp.com/channel/0029VafEg1mIyPtLXQjAbz3k' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-SECOND-Channel-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
+<a href='https://whatsapp.com/channel/0029VahusSh0QeaoFzHJCk2x' target="_blank"><img alt='WhatsApp 2' src='https://img.shields.io/badge/Channel-2-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
+
 </p>
 
 1. **Buy Me a Coffee**: Your support will help me stay motivated and continue working on exciting projects like this one.
@@ -136,7 +151,7 @@ global.BotName = "🐦Fearless-md-v1";
  ## 🎯 Authors 🎯
   <div align="center">
   
-| [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/Fearless-tech1.png?size=150)](https://github.com/Fearless-tech1) |
+| [![𓄂☠️𝐅ᴇa̷r͜͡l͡e̶Ꭶs͜͡🤴🏻𝐊i͜͡n̸𝙂🇵🇰༗](https://github.com/Fearless-tech1.png?size=150)](https://github.com/Fearless-tech1) |
 |----|
 | [ 𓄂☠️𝐅ᴇa̷r͜͡l͡e̶Ꭶs͜͡🤴🏻𝐊i͜͡n̸𝙂🇵🇰༗](https://github.com/Fearless-tech1/FEARLESS-MD-V1) |
 |  Developer |
