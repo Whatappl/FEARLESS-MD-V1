@@ -1,0 +1,26 @@
+
+{
+    "name": "FEARLESS-MD-V1",
+    "description": "A whatsApp bot based on Baileysjs linrary (Ts+Js) with Multi Device support",
+    "repository": "https://github.com/Fearless-tech1/FEARLESS-MD-V1",
+    "logo": "https://telegra.ph/file/68788408ecf55f6358eca.jpg",
+    "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+    "env": {
+     "sessID": {
+      "description": "Must put session ID.",
+      "required": true,
+      "value": ""
+    }
+    },
+    "buildpacks": [
+      {
+        "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+          }
+     ]
+}
